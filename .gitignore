@@ -1,0 +1,7 @@
+.vscode/launch.json
+.vscode/*.json
+*.app
+.alpackages/Microsoft_Application_19.5.36567.36700.app
+.alpackages/Microsoft_Base Application_19.5.36567.36700.app
+.alpackages/Microsoft_System Application_19.5.36567.36700.app
+.alpackages/Microsoft_System_19.0.36528.36625.app
